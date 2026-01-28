@@ -1,0 +1,1 @@
+print("Paxos simulation started")
